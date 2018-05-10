@@ -1,6 +1,6 @@
 # Introduction
 
-This project is created for a semester work. You can use the code to implement on own project or standalone project work.
+This project is created for a semester work. You can use the code to implement on your own project or standalone project work.
 
 # Abstract
 
